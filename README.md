@@ -1,7 +1,10 @@
 ## Bem Vindo ao meu Perfil:
 
-* Me chamo **Murilo Leandro** tenho 17 anos, atualmente estou apredendo
-a linuagem de programção javascript na biblioteca p5Js. 
+* Me chamo **Murilo Leandro** tenho 18 anos, atualmente estou fazendo curso
+de Técnico em informatica, já passei por QP (Qualificação profissional) 1 e 2,
+e acabei de entrar na parte de desenvolvimento do curso. Durante meu 3º ano de ensino médio
+escolhi o itinerário formmativo de programação e acabei fazendo uns projeto
+na linguagem de programção javascript na biblioteca p5Js. 
 
 * Criei esse github para armazenar projetos já criados e em criação.
 
@@ -11,6 +14,8 @@ a linuagem de programção javascript na biblioteca p5Js.
 * CSS
 * C#
 * PYTHON
+* Java
+* JavaScrip
 
 ## Meu Contato: 
 
